@@ -1,7 +1,7 @@
 The Swiggy raw data file is Too large and cannot be uploaded on GitRepo. Therefore I am providing drive link of the file to download.
 
 **Steps to Clone the repo in your PC and get insights:**
-2)Download the raw Dataset from the link: https://drive.google.com/drive/folders/1_qbkq3VLLah5R2_Iq5E-I9tnCLBD1iTM?usp=drive_link
+2)Download the raw Dataset from the link: https://drive.google.com/file/d/1769BSyNr4_zjbg2v6zva-HMwPG1r33RF/view?usp=drivesdk
 3)Paste it in the same folder with name as "data.json"
 4)Run the corrosponding python Codes to get different insights.
 
